@@ -1,7 +1,7 @@
 {
-  "name": "logseq-starter-plugin",
+  "name": "insert-week-number",
   "version": "1.0",
-  "description": "Starter Plugin",
+  "description": "Better way to do weekly review in Logseq",
   "main": "dist/index.html",
   "targets": {
     "main": false
@@ -11,14 +11,14 @@
     "build": "parcel build --no-source-maps index.html --public-url ./"
   },
   "keywords": [],
-  "author": "Aryan Sawhney",
+  "author": "Mark Ng",
   "license": "MIT",
   "dependencies": {
     "@logseq/libs": "0.0.1-alpha.34"
   },
   "logseq": {
-    "id": "logseq-starter-plugin",
-    "title": "logseq-starter-plugin",
+    "id": "insert-week-number",
+    "title": "insert-week-number",
     "icon": "./icon.png"
   },
   "devDependencies": {
