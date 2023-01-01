@@ -1,5 +1,6 @@
-# logseq-plugin-starter-template
-A quick and easy to use template to get you going from the get go
+# logseq-plugin-insert-week-number
+
+Better way to do weekly review in Logseq
 
 ## Getting started
 
